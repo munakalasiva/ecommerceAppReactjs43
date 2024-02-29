@@ -1,0 +1,15 @@
+.che-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  width: 100%;
+}
+.summary {
+  display: flex;
+  flex-direction: column;
+}
+.align-summary {
+  display: flex;
+  justify-content: flex-end;
+}
